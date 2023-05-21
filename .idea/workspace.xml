@@ -8,13 +8,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0069f3d6-087a-4d7a-aef6-d7e95587d671" name="Changes" comment="forward to next version">
-      <change beforePath="$PROJECT_DIR$/," beforeDir="false" afterPath="$PROJECT_DIR$/," afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/STRIPE_v_13_03.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_Python.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/_template__of_Python.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Stripe-Identity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/:retntation" beforeDir="false" afterPath="$PROJECT_DIR$/:retntation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/=" beforeDir="false" afterPath="$PROJECT_DIR$/=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Do" beforeDir="false" afterPath="$PROJECT_DIR$/Do" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Provide" beforeDir="false" afterPath="$PROJECT_DIR$/Provide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Twilio" beforeDir="false" afterPath="$PROJECT_DIR$/Twilio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/___" beforeDir="false" afterPath="$PROJECT_DIR$/___" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bash:" beforeDir="false" afterPath="$PROJECT_DIR$/bash:" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e" beforeDir="false" afterPath="$PROJECT_DIR$/e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/is" beforeDir="false" afterPath="$PROJECT_DIR$/is" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/req.link" beforeDir="false" afterPath="$PROJECT_DIR$/req.link" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,16 +79,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/webtechnicom/Downloads/identity-main&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "/Users/webtechnicom/Downloads/identity-main/Stripe-Identity",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -90,7 +96,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Compound.STRIPE.v_13.03">
     <configuration name="pip" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="identity-main" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +164,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Compound.STRIPE.v_12.05" />
+      <item itemvalue="Compound.STRIPE.v_13.03" />
       <item itemvalue="Python.pip" />
       <item itemvalue="Python.pip3" />
       <item itemvalue="Python.pip3.9" />
